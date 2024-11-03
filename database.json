@@ -1,0 +1,15 @@
+{
+  "allowedIps": [
+    "172.18.0.1"
+  ],
+  "users": [
+    {
+      "username": "skyzxuchiori7120",
+      "password": "kanjutdak"
+    },
+    {
+      "username": "skyzxu",
+      "password": "chioribotz8431"
+    }
+  ]
+}
